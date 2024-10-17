@@ -42,13 +42,13 @@ This practice helps to relax the focusing muscle inside the eye, reducing fatigu
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/AhmedJHamdan/eyerelax_watch_app.git
+   git clone https://github.com/AhmedJHamdan/eye_relax_watch_app.git
    ```
 
 2. **Navigate to the Project Directory**
 
    ```bash
-   cd eyerelax_watch_app
+   cd eye_relax_watch_app
    ```
 
 3. **Install Dependencies**
