@@ -1,8 +1,8 @@
 import 'package:animated_text_kit/animated_text_kit.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:mywatchapp/blocs/relax_bloc.dart';
-import 'package:mywatchapp/view/widgets/dashed_circular_relax_progress.dart';
+import 'package:eye_relax_watch_app/blocs/relax_bloc.dart';
+import 'package:eye_relax_watch_app/view/widgets/dashed_circular_relax_progress.dart';
 
 import '../widgets/relax_text_widget.dart';
 import '../widgets/background_mesh_gradient_widget.dart';

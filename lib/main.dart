@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:mywatchapp/view/screens/relax_screen.dart';
+import 'package:eye_relax_watch_app/view/screens/relax_screen.dart';
 import 'package:wear_plus/wear_plus.dart';
-import 'package:mywatchapp/blocs/relax_bloc.dart';
+import 'package:eye_relax_watch_app/blocs/relax_bloc.dart';
 
 void main() {
   runApp(MaterialApp(
