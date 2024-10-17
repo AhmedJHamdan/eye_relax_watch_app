@@ -118,6 +118,9 @@ For questions or suggestions, feel free to reach out:
 
 
 ## 📸 Screenshots
+![Main screen](assets/images/main_screen.png)
+![Relax screen](assets/images/relax_screen.png)
+![Repeat screen](assets/images/repeat_screen.png)
 
 
 
